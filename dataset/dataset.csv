@@ -1,0 +1,57 @@
+complexity,criticality,technology,no_of_requirements,BRD_Availability,FS_Availability,development_methodology,change_in_schedule,release_duration,documentation_quality,requirement_validation,environment,automation_scope,environment_downtime,unit_test_defects,build_quality,dependencies_criticality,type_of_requirement,no_of_test_scenerio,no_of_test_cases,no_of_defects
+High,High,"Java 8 , Oracle 12g, Thick client",3,Yes,Yes,Waterfall,No,12,5,Yes,"Dev,SIT, UAT  &Production",No,Yes,5,3,Medium,Non Functional,25,150,10
+High,High,"Java 8 , Otracle 12g, Thick client",38,Yes,Yes,Waterfall,No,24,5,Yes,"Dev,SIT, UAT  &Production",No,Yes,70,3,Medium,Functional,70,700,100
+Medium,Medium,. NET,24,No,Yes,Hybrid Agile,No,8,4,Yes,"Integration, Regression, Production",No,Yes,0,3,Medium,Functional,0,167,12
+Medium,Medium,. NET,15,No,Yes,Hybrid Agile,No,7,4,Yes,"Integration, Regression, Production.",No,Yes,0,3,Medium,Functional,0,130,6
+Medium,High,EY Canvas,6,Yes,Yes,Iterative,Yes,4,5,Yes,"SIT, UAT, Production, Training",No,Yes,0,3,Medium,Functional,25,150,120
+Medium,High,EY Canvas,6,Yes,Yes,Iterative,Yes,4,5,Yes,"SIT, UAT, Production, Training",No,Yes,0,3,Medium,Functional,28,180,200
+High,High,SharePoint/SSIS Package,29,No,Yes,Hybrid Agile,Yes,4,5,Yes,SIT,No,Yes,30,3,High,Functional,350,750,255
+High,High,SharePoint/SSIS Package,19,No,Yes,Hybrid Agile,Yes,4,5,Yes,SIT,No,Yes,30,3,High,Functional,250,550,235
+Low,Medium,.NET,6,Yes,No,"Hybrid (Waterfall, Iterative)",No,13,4,Yes,SIT,Yes,No,0,3,Low,Functional,10,25,174
+Medium,Low,.NET,3,Yes,No,Waterfall,No,2,5,Yes,"SIT, UAT",No,No,0,3,Medium,Functional,6,15,29
+High,Medium,. Net and Archer,8,Yes,No,Waterfall,Yes,4,5,No,"DEV,SIT,UAT",No,Yes,15,3,High,Functional,10,40,121
+Medium,High,"ASP.NET,SQL",10,Yes,No,Iterative,Yes,1,5,No,"SIT, UAT, Production",No,Yes,0,3,Low,Functional,10,32,219
+Medium,High,"ASP.NET,SQL",55,Yes,No,Waterfall,No,8,5,Yes,"SIT, UAT, Production",Yes,No,3,3,Medium,Functional,16,32,36
+High,Medium,"ASP.NET, SQL, SSRS, SSIS",12,Yes,No,Iterative,Yes,12,5,Yes,"SIT, UAT, Training, Production",Yes,Yes,5,3,High,Functional,15,30,370
+High,Medium,"ASP.NET, SQL, SSRS, SSIS",12,Yes,No,Iterative,Yes,12,5,Yes,"SIT, UAT, Training, Production",Yes,Yes,10,3,High,Non Functional,12,15,202
+High,High,"ASP.NET, SQL",10,Yes,No,Iterative,No,5,5,No,"SIT, UAT, Production",No,No,2,3,Medium,Functional,15,40,155
+High,High,"ASP.NET, SQL",6,Yes,No,Iterative,No,3,5,No,"SIT, UAT, Production",No,No,5,3,Medium,Non Functional,8,10,150
+High,High,"ASP.Net MVC5, EF6.1, Kendo UI, SQL Server 2012, SSRS, Window Services, Aspose Cell, Jquery",103,Yes,Yes,Waterfall,No,15,5,Yes,"SIT, UAT, Production",Yes,Yes,10,3,High,Functional,50,150,210
+High,High,"ASP.Net MVC5, EF6.1, Kendo UI, SQL Server 2012, SSRS, Window Services, Aspose Cell, Jquery",60,Yes,Yes,Waterfall,No,5,5,Yes,"SIT, UAT, Production",Yes,Yes,6,3,High,Functional,30,80,40
+Medium,High,"Eagle,Pace,star,Oracle",5,Yes,Yes,Iterative,Yes,2,5,Yes,SIT,Yes,Yes,2,1,Medium,Functional,3,32,13
+High,High,"Oracle,Eagle,star,pace",2,No,Yes,Iterative,No,2,5,Yes,SIT,No,No,0,3,High,Functional,10,20,9
+High,High,Informatica,1,No,Yes,Iterative,No,2,1,No,SIT,Yes,No,150,3,High,Functional,16,61,8
+High,Medium,"Oracle,Eagle,star,pace",9,Yes,No,Iterative,No,2,5,Yes,SIT,No,No,0,3,Low,Functional,6,34,6
+Medium,Medium,"Oracle,Sql",6,No,Yes,Iterative,Yes,2,5,Yes,SIT,No,Yes,10,3,High,Functional,14,62,8
+Low,Medium,"Oracle,Eagle,star,pace",9,No,Yes,Iterative,No,2,5,No,SIT,No,Yes,0,3,Medium,Functional,6,6,12
+Medium,Low,"Oracle,Eagle,star,pace",3,No,Yes,Iterative,No,2,5,No,SIT,Yes,Yes,0,3,Low,Functional,1,3,12
+Low,Low,"Oracle,Unix,Pace,Star,eagle",9,Yes,No,Iterative,Yes,2,5,No,SIT,No,No,0,3,Low,Functional,4,4,10
+Medium,High,"Eagle,Pace,star,Oracle,TIBCO,Informatica",8,Yes,Yes,Iterative,No,2,1,Yes,SIT,No,No,30,3,Low,Functional,3,9,7
+Low,Medium,"Oracle,Eagle,star,pace",8,No,Yes,Iterative,No,2,5,No,SIT,No,No,0,3,Medium,Functional,4,6,5
+High,Low,"Oracle,Eagle,star,pace",4,No,Yes,Iterative,No,2,5,Yes,SIT,No,Yes,0,3,High,Functional,1,2,5
+Medium,High,"Eagle,Pace,star,Oracle,TIBCO",10,Yes,No,Iterative,No,2,5,Yes,SIT,No,No,20,2,High,Functional,14,88,17
+Medium,High,"Oracle,Eagle,star,pace",5,No,Yes,Iterative,Yes,2,5,No,SIT,Yes,Yes,0,3,Medium,Functional,9,99,4
+Medium,Medium,"Eagle,Pace,star,Oracle,TIBCO,Informatica",6,Yes,No,Iterative,No,2,5,Yes,SIT,No,No,0,3,High,Functional,1,5,5
+High,Medium,"Oracle,Eagle,star,pace",7,No,Yes,Iterative,No,2,5,No,SIT,No,Yes,0,3,Low,Functional,2,27,4
+Medium,High,"Eagle,Pace,star,Oracle,TIBCO,Informatica",8,Yes,No,Iterative,No,2,5,No,SIT,Yes,Yes,140,3,Medium,Functional,1,7,6
+High,High,"Eagle,Pace,star,Oracle,TIBCO,Informatica",2,No,Yes,Iterative,Yes,2,5,Yes,SIT,No,Yes,0,3,Low,Functional,1,2,4
+High,Medium,"Eagle,Pace,star,Oracle,TIBCO,Informatica",5,No,Yes,Iterative,No,2,5,Yes,SIT,No,No,0,3,High,Functional,3,11,2
+High,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",25,No,Yes,Waterfall,No,4,5,Yes,SIT,No,Yes,0,3,High,Functional,125,750,405
+High,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",6,No,Yes,Waterfall,No,2,5,Yes,SIT,No,Yes,0,3,High,Non Functional,25,64,45
+Medium,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",3,No,Yes,Waterfall,No,3,5,Yes,SIT,No,Yes,0,3,Medium,Functional,10,53,20
+High,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",23,No,Yes,Waterfall,No,4,5,Yes,SIT,No,Yes,0,3,High,Functional,80,615,335
+High,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",5,No,Yes,Waterfall,No,2,5,Yes,SIT,No,Yes,0,3,High,Non Functional,20,40,15
+Low,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",2,No,Yes,Waterfall,No,3,5,Yes,SIT,No,Yes,0,3,Medium,Functional,5,25,10
+High,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",29,No,Yes,Waterfall,No,4,5,Yes,SIT,No,Yes,0,3,High,Functional,130,730,365
+High,High,"JSF, EJB, Oracle, Hibernate, JBoss ESB",4,No,Yes,Waterfall,No,2,5,Yes,SIT,No,Yes,0,3,High,Non Functional,30,20,10
+High,High,AEM 6.0,115,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,15,3,High,Functional,85,200,162
+High,High,AEM 6.0,125,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,20,3,High,Functional,87,210,165
+High,High,AEM 6.0,120,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,10,3,High,Functional,100,220,170
+High,High,AEM 6.0,130,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,30,3,High,Functional,120,190,150
+High,High,AEM 6.0,140,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,14,3,High,Functional,140,160,140
+High,High,AEM 6.0,110,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,12,3,High,Functional,82,250,173
+High,High,AEM 6.0,135,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,25,3,High,Functional,90,210,183
+High,High,AEM 6.0,145,Yes,No,Agile,No,3,5,Yes,SIT,No,Yes,35,3,High,Functional,95,230,157
+High,High,AEM 6.0,35,Yes,No,Agile,No,2,5,Yes,SIT,No,Yes,29,3,High,Functional,65,165,130
+High,High,AEM 6.0,30,Yes,No,Agile,No,2,5,Yes,SIT,No,Yes,25,3,High,Functional,60,160,120
+High,High,AEM 6.0,35,Yes,No,Agile,No,2,5,Yes,SIT,No,Yes,30,3,High,Functional,70,170,135
