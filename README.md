@@ -1,6 +1,6 @@
 # Defect Predictor
 
-## README generated from `defect_regression.ipynb`. Check that for entirety. 
+## README generated from `defect_regression.ipynb`. Check that for entirety.
 
 ## Objective
 > To derive a model that will predict the number of bugs the project will
